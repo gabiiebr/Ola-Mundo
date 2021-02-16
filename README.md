@@ -6,5 +6,5 @@
 
 
 Linha adicionada pelo site GitHub.
-
+Linha adicionada pelo Visual Studio Code.
 Linha adicionada pelo desktop GitHub.
